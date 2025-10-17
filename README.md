@@ -6,7 +6,7 @@ Este projeto aplica técnicas de **análise geoespacial** e **inteligência arti
 
 ---
 
-## 📊 Objetivo
+## 💬 Objetivo
 
 - Identificar áreas com **alta concentração de acidentes (hotspots)**;  
 - Aplicar modelos preditivos para **antecipar regiões de risco**;  
@@ -45,7 +45,7 @@ cd ia_transito
 Crie um ambiente virtual e instale os pacotes necessários:
 pip install -r requirements.txt
 
-📦 Bibliotecas principais:
+-> Bibliotecas principais:
 pandas, geopandas, folium, scikit-learn, lightgbm, h3, shapely, numpy
 
 ### 3️⃣ Executar a análise
