@@ -28,7 +28,7 @@ O pipeline de processamento segue as seguintes etapas:
 | **5️⃣ Avaliação e Visualização** | Cálculo de PR-AUC e HitRate@100m, exportação de GeoJSONs e criação de mapa interativo via Folium. |
 
 <p align="center">
-  <img src="img_pipeline.png" alt="Pipeline" width="600"/>
+  <img src="doc/img_pipeline.png" alt="Pipeline" width="600"/>
 </p>
 
 ---
